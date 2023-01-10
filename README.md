@@ -24,7 +24,7 @@ I am *not responsible* for any outcomes of its use. However, feel free to edit, 
 
 ## License
 
-Open source no commercial use
+This project is released under the GPL v3 License. Please refer to the LICENCE file.
   
 ## Credits
 
